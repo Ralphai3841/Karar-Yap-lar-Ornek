@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Karar_Yapıları_Ornek</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\ralpd\OneDrive\Masaüstü\c#udemy\6-Karar Yapıları\Karar Yapıları Örneği.cs" Link="Karar Yapıları Örneği.cs" />
+  </ItemGroup>
+
+</Project>
